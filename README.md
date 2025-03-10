@@ -1,8 +1,4 @@
-NILM_Dataloader.py 应该放在 utils 目录下，它是一个工具类文件，用于创建 PyTorch 的 DataLoader 对象。
 
-markdownCopy# ELECTRIcity
-
-ELECTRIcity：一个高效的非侵入式负载监测变压器模型的 PyTorch 实现。如有任何问题，欢迎联系：stasykiotis@mail.ntua.gr
 
 ## 数据
 
