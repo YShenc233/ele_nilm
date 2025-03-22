@@ -1,11 +1,3 @@
-### 
-
-用户:
-这是我所有的代码，我想把我的代码在github上开源，但是我不知道该怎么操作。而且我的readme文档并不是github可以完美识别的格式，里面有一些格式的错乱，请你重新给我生成一份readme文档，我的要求如下：1.像教一个高中生一样，详细的写出来我代码的运行说明，2.项目的文件夹结构要列出来
-3.告诉我代码的训练流程，整个readme不需要告诉我的代码的运行结果，以及作用之类的，只需要写出来代码怎么使用
-
-Claude:
-
 # ELECTRIcity
 
 ELECTRIcity is a PyTorch implementation of a transformer-based model for Non-Intrusive Load Monitoring (NILM). This README explains how to set up and run the project.
@@ -247,5 +239,4 @@ Common issues and their solutions:
 - `compare_results.py`: Tool for comparing results across experiments
 
 This README should help you get started with the ELECTRIcity project. If you have questions or encounter issues not covered here, please open an issue on GitHub.
-
 
